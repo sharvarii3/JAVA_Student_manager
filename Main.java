@@ -1,6 +1,6 @@
-// Name: Pooja Ramdas
-// PRN: 23070126091
-// Batch: AIML B1 2023–2027
+// Name: Sharvari Godbole
+// PRN: 23070126117
+// Batch: AIML B2 2023–2027
 
 import java.util.Scanner;
 import exceptions.*;
